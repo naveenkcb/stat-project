@@ -22,3 +22,5 @@ In this model, the below steps were taken
   -    also explore any additional limitations and improvements to the dataset parameters or models which can improve the model
     
 
+# Technologies
+R
